@@ -41,7 +41,7 @@ In this codelab, you'll learn how to use [AngularFire](https://firebaseopensourc
 
 
 ## Get the sample code
-Duration: 02:00
+Duration: 02:00 Minutes
 
 
 Clone the codelab's [GitHub repository](https://github.com/firebase/codelab-friendlychat-web) from the command line:
